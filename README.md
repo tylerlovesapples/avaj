@@ -1,1 +1,1 @@
-# avaj is java backwards.
+# 'avaj' is 'java' backwards.
